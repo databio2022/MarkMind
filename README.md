@@ -20,6 +20,3 @@ Visit our website for more information and to access the application: [markmind]
 ## Contact
 
 For questions or support, please contact us at databio@163.com.
-
----
-
