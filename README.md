@@ -1,6 +1,5 @@
-# MarkMind
+# MarkMind(https://www.ai4bio.cn)
 
-[![markmind](https://www.ai4bio.cn/assets/images/logo.png)](https://www.ai4bio.cn)
 ![image](https://github.com/databio2022/MarkMind/assets/101156176/ea40ca8e-8997-4fb7-844a-744392b9d9a1)
 
 
