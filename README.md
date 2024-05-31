@@ -15,7 +15,7 @@
 
 ## Website
 
-Visit our website for more information and to access the application: [markmind](https://www.ai4bio.cn)
+Visit our website for more information and to access the application: [MarkMind](https://www.ai4bio.cn)
 
 ## Contact
 
